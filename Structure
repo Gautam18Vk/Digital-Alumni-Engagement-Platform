@@ -1,0 +1,16 @@
+Digital-Alumni-Engagement-Platform/
+│
+├── backend/
+│   ├── app.py
+│   ├── init_db.py
+│   └── database.db   ← (will be auto-created)
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js (optional)
+│
+├── data/
+│   └── alumni_sample.csv
+│
+└── README.md
